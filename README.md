@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/307656918.svg)](https://zenodo.org/doi/10.5281/zenodo.11091899)
+
 # Introduction
 
 In this repository, you can find the datasets, scripts, and plots used in my Bachelor’s thesis titled 
